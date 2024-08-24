@@ -1,4 +1,5 @@
-# E-Commerce Website Products Viewer and Shopping Cart Simulator
+# Dummy Facebook Signup Page
+This is a dummy signup page imitating the Facebook signup page, created using React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
